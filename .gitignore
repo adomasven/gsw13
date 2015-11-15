@@ -1,0 +1,6 @@
+.ycm_extra_conf.pyc
+build
+sess*
+lib
+test/*
+!test/test.py
